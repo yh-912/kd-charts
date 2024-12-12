@@ -1,5 +1,5 @@
 ---
-title: 径向树状图
+title: 径向树状
 order: 1101
 nav:
   title: 组件
